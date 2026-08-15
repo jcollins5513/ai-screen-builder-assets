@@ -1,0 +1,326 @@
+✓ PASS   0edEdYxTfW.png (png 1536×768, transparent 92.6%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   0ee3E24TfW.png (png 896×1152, transparent 70.6%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   0ee3h3NTfW.png (png 896×1152, transparent 74.1%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   1llC3Fpr4r.png (png 1536×768, transparent 79.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   1llC3jhr4r.png (png 896×1152, transparent 86.6%, ring 99.7%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   1llCP3Ur4r.png (png 896×1152, transparent 67.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   1llCzX4r4r.png (png 896×1152, transparent 73.7%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   1lldKpWr4r.png (png 896×1216, transparent 72.1%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   1sCsPzor4r.png (png 2224×1664, transparent 87.6%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   1sR6OZ3r4r.png (png 4000×2281, transparent 94.5%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   3GFbNkNREY.png (png 1024×1024, transparent 74.1%, ring 97.9%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   3zzw0fDREY.png (png 896×1152, transparent 75.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   3zzwD5BREY.png (png 896×1152, transparent 90.7%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   3zzwDhYREY.png (png 896×1152, transparent 91.6%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   3zzwo1eREY.png (png 1536×768, transparent 71.8%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   3zzwW5hREY.png (png 896×1152, transparent 82.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   3zzwWxEREY.png (png 896×1152, transparent 79.1%, ring 92.1%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   4RRHNy59Aa.png (png 896×1216, transparent 71.6%, ring 95.6%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   4RRsYzw9Aa.png (png 896×1152, transparent 92.6%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   4RRTffX9Aa.png (png 2496×1664, transparent 80.7%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   5jjpUBfKxe.png (png 1024×1024, transparent 78.5%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+? REVIEW 5xvr3o6Kxe.png (png) — edges are 50.3% opaque — subject may be cropped at the frame (full-bleed, not floatable). Approve manually only if the grounding edge is intentional
+✓ PASS   6AAS08tiJO.png (png 896×1152, transparent 71.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   6AASXySiJO.png (png 1536×768, transparent 78.6%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   6AAUED6iJO.png (png 896×1152, transparent 68.0%, ring 91.2%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   799106tJAL.png (png 896×1152, transparent 89.8%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   7991DnfJAL.png (png 1216×896, transparent 75.0%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   7991GFAJAL.png (png 896×1152, transparent 59.6%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   799CyiuJAL.png (png 896×1216, transparent 85.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   799rIGBJAL.png (png 896×1152, transparent 71.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   8aa0HgoIrU.png (png 896×1152, transparent 72.1%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   8aa3qF4IrU.png (png 1024×1024, transparent 77.8%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   8aaipNKIrU.png (png 1280×832, transparent 85.8%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   9ZZHPhtNYZ.png (png 896×1216, transparent 73.9%, ring 96.8%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   9ZZlesQNYZ.png (png 1536×768, transparent 73.0%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   9ZZlIkoNYZ.png (png 896×1152, transparent 73.0%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   9ZZltRxNYZ.png (png 896×1152, transparent 66.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   aFFebIYfSh.png (png 896×1152, transparent 79.4%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   aFFegINfSh.png (png 896×1152, transparent 58.6%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   aFFex1BfSh.png (png 896×1152, transparent 71.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   aFFeyAQfSh.png (png 896×1152, transparent 59.0%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   aFFsXXwfSh.png (png 1280×832, transparent 85.6%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   BhhWfAzoQR.png (png 896×1152, transparent 56.5%, ring 89.5%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   BmxNSynoQR.png (png 1024×1024, transparent 85.7%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   bxxh4I85Y2.png (png 896×1152, transparent 51.7%, ring 91.6%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   bxxh9Ug5Y2.png (png 896×1152, transparent 92.4%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   bxxvYGO5Y2.png (png 896×1152, transparent 63.1%, ring 75.1%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   cppiE9J0eP.png (png 1536×768, transparent 71.0%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   cppiu8p0eP.png (png 1536×768, transparent 66.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   dttnKdCXSL.png (png 1536×768, transparent 62.7%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   dttnKpaXSL.png (png 1536×768, transparent 72.6%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   dttnQcaXSL.png (png 896×1152, transparent 91.8%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   eII4BrNdqL.png (png 1024×1024, transparent 69.0%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   eIIzjVedqL.png (png 896×1152, transparent 48.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   fHHdPWOCDY.png (png 896×1152, transparent 62.1%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   fHHX3T7CDY.png (png 896×1152, transparent 72.0%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   gOObiOmSXO.png (png 896×1152, transparent 79.5%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   gOObN0sSXO.png (png 896×1152, transparent 76.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   gOObNiFSXO.png (png 896×1152, transparent 75.3%, ring 98.5%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   gOObnu4SXO.png (png 1536×768, transparent 72.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   gOObY3tSXO.png (png 1536×768, transparent 65.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   gwoOE75SXO.png (png 2000×2000, transparent 62.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   hEDExiFvqL.png (png 1920×1920, transparent 54.7%, ring 99.5%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   iA85aoT3uK.png (png 1024×1024, transparent 85.7%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   iAod50H3uK.png (png 2048×1168, transparent 94.4%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   iGGUtAf3uK.png (png 896×1152, transparent 80.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   JNNrzu6Oq4.png (png 1536×768, transparent 60.7%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   jUUFDdHLD0.png (png 896×1152, transparent 67.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   jUUFDtQLD0.png (png 896×1152, transparent 75.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   jUUQyM7LD0.png (png 896×1152, transparent 69.1%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   kssdOic16B.png (png 1024×1024, transparent 74.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   kssfiAX16B.png (png 1536×768, transparent 73.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   kssfiof16B.png (png 1536×768, transparent 83.4%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   kssfiwN16B.png (png 896×1152, transparent 91.6%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   kssfJjG16B.png (png 896×1152, transparent 58.3%, ring 83.5%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   kssfZbS16B.png (png 896×1152, transparent 43.5%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   lJJqTQagv9.png (png 896×1152, transparent 80.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   lUEYkWfgv9.png (png 2000×1333, transparent 68.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   LwwFAzCswO.png (png 1536×768, transparent 76.9%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   LwwHp8HswO.png (png 896×1152, transparent 64.1%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   LwwRqe5swO.png (png 1280×832, transparent 82.2%, ring 99.9%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   LwwRqIjswO.png (png 1344×768, transparent 79.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   MBB2vH6DCm.png (png 896×1152, transparent 76.5%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   MBBAl3zDCm.png (png 896×1152, transparent 74.8%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   MBBAl5jDCm.png (png 896×1152, transparent 71.0%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   mEEMFdihJQ.png (png 896×1152, transparent 80.7%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   mEEMlfNhJQ.png (png 1536×768, transparent 72.9%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   mEEMsJ8hJQ.png (png 1536×768, transparent 69.1%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   mEEMSXlhJQ.png (png 896×1152, transparent 65.1%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   N22g8Ag6D9.png (png 896×1152, transparent 59.7%, ring 88.6%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   N22gXeZ6D9.png (png 1536×768, transparent 51.7%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   nVV9v7yYQD.png (png 896×1152, transparent 52.1%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   O66xGzXynm.png (png 896×1152, transparent 91.1%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   ohRngwh829.png (png 1024×1024, transparent 66.9%, ring 88.7%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   ovvcFKz829.png (png 896×1152, transparent 72.0%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   ovvcsk4829.png (png 896×1152, transparent 83.9%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   ovvcu1c829.png (png 896×1152, transparent 63.8%, ring 94.9%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   ovvcxCU829.png (png 1536×768, transparent 55.4%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   P33L2H242C.png (png 896×1152, transparent 76.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   P33L8NY42C.png (png 896×1152, transparent 54.7%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   P33LW1242C.png (png 1536×768, transparent 65.3%, ring 93.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   p88GqpUehw.png (png 896×1152, transparent 85.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   rggEGOZxtc.png (png 896×1152, transparent 77.9%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   rggEn1nxtc.png (png 896×1152, transparent 71.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   rggER6uxtc.png (png 1536×768, transparent 69.6%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   rggERQGxtc.png (png 1536×768, transparent 69.6%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   rggEy9dxtc.png (png 896×1152, transparent 87.4%, ring 99.5%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   rgguVTHxtc.png (png 896×1152, transparent 81.8%, ring 99.8%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   rlRYSS9xtc.png (png 1376×768, transparent 94.4%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   s77HAHAl8e.png (png 896×1152, transparent 84.5%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   s77HG7Pl8e.png (png 896×1152, transparent 84.6%, ring 98.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   s77HGeol8e.png (png 1536×768, transparent 80.4%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   s77HiT8l8e.png (png 896×1152, transparent 76.8%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   s77HiXfl8e.png (png 1536×768, transparent 79.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   s77t9oSl8e.png (png 1024×1024, transparent 66.8%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   S7FJdHwUb8.png (png 1024×1024, transparent 71.7%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   Syy5nskUb8.png (png 896×1152, transparent 73.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   Syy5TN7Ub8.png (png 896×1152, transparent 58.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   Syy5TYNUb8.png (png 896×1152, transparent 84.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   Syy5Y29Ub8.png (png 896×1152, transparent 86.8%, ring 98.5%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   Syy5YYRUb8.png (png 896×1152, transparent 89.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   Syy5ZqKUb8.png (png 1536×768, transparent 77.7%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   SyyhlYpUb8.png (png 896×1216, transparent 74.4%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   SyyKBM3Ub8.png (png 896×1152, transparent 80.0%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   Syyvi1qUb8.png (png 1024×1024, transparent 71.5%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   TddRbDvVNR.png (png 896×1152, transparent 62.6%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   TddRvH4VNR.png (png 1536×768, transparent 74.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   TddZLQ5VNR.png (png 896×1152, transparent 54.4%, ring 93.2%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   u55olRnQLD.png (png 1536×768, transparent 74.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   u55oNIeQLD.png (png 896×1152, transparent 71.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   u55oOSgQLD.png (png 1536×768, transparent 68.7%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✗ FAIL  ubAntbIQLD.png — alpha channel present but only 0.0% transparent pixels — flattened content saved with alpha
+✓ PASS   UP4Y1Nqwny.png (png 752×1344, transparent 60.8%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   UPPK22Uwny.png (png 896×1152, transparent 87.4%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   UPPKi03wny.png (png 896×1152, transparent 66.9%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   UPPKiz4wny.png (png 896×1152, transparent 78.4%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   UPPKNbawny.png (png 896×1152, transparent 76.7%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   UPPKNkEwny.png (png 896×1152, transparent 74.0%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   UPPko3Cwny.png (png 896×1152, transparent 58.8%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   UPPvjYZwny.png (png 1280×832, transparent 82.8%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   UycnP6Gwny.png (png 1024×1024, transparent 85.6%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   vQQLdT1a47.png (png 1344×768, transparent 79.7%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   vQQpgAqa47.png (png 1536×768, transparent 65.1%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   vQQpOola47.png (png 896×1152, transparent 82.7%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   VXXJveGMMU.png (png 1024×1024, transparent 63.6%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   VXXZbTRMMU.png (png 1216×896, transparent 61.4%, ring 98.7%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   VXXZFS1MMU.png (png 1536×768, transparent 79.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   VXXZtfEMMU.png (png 896×1152, transparent 82.8%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   w44kptb7EI.png (png 896×1152, transparent 72.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   WDD6EDicXe.png (png 1536×768, transparent 66.7%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   wPkyVLC7EI.png (png 2224×1664, transparent 67.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   XmhKFYwBfo.png (png 1024×1536, transparent 65.4%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   XmmNoWtBfo.png (png 896×1216, transparent 72.4%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   XmmYs2ABfo.png (png 896×1152, transparent 68.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   XmmYuaxBfo.png (png 896×1152, transparent 81.1%, ring 99.6%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   xSSos60jfW.png (png 1024×1024, transparent 78.5%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   xSSosdEjfW.png (png 1024×1024, transparent 76.4%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   xSSuRICjfW.png (png 896×1152, transparent 69.3%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   xSSuYEEjfW.png (png 896×1152, transparent 70.8%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   xSSuz4QjfW.png (png 896×1152, transparent 68.4%, ring 99.6%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   yiijMtZPW9.png (png 896×1152, transparent 90.2%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   YMMlZqlWeC.png (png 1280×832, transparent 78.0%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   YMMmrUiWeC.png (png 1344×768, transparent 80.1%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
+✓ PASS   YMMNIhaWeC.png (png 896×1152, transparent 84.4%, ring 100.0%)
+         → { alphaChannel: true, cutoutCapable: true /* set edgeQuality after the §8 halo review at 200% on light/dark/checkerboard */ }
