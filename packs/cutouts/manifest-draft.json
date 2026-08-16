@@ -77,9 +77,17 @@
     "transparentRatio": 0.792,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "dark grey electric suv coupe from rear three-quarter angle",
+    "subjectTags": [
+      "suv",
+      "car",
+      "electric",
+      "coupe",
+      "grey",
+      "wheels",
+      "vehicle"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/1llC3jhr4r",
@@ -93,9 +101,17 @@
     "transparentRatio": 0.866,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "professional quadcopter drone with gimbal camera on landing legs",
+    "subjectTags": [
+      "drone",
+      "quadcopter",
+      "camera",
+      "gimbal",
+      "propellers",
+      "aerial",
+      "legs"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/1llCP3Ur4r",
@@ -109,9 +125,17 @@
     "transparentRatio": 0.673,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "open silver laptop tilted at an angle with dark screen",
+    "subjectTags": [
+      "laptop",
+      "computer",
+      "screen",
+      "silver",
+      "keyboard",
+      "tilted",
+      "device"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/1llCzX4r4r",
@@ -125,9 +149,17 @@
     "transparentRatio": 0.737,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "dark teal over-ear headphones with plush padded earcups",
+    "subjectTags": [
+      "headphones",
+      "audio",
+      "earcups",
+      "headband",
+      "teal",
+      "padded",
+      "plush"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/1lldKpWr4r",
@@ -141,57 +173,17 @@
     "transparentRatio": 0.721,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
-  },
-  {
-    "id": "cutouts/1sCsPzor4r",
-    "pack": "cutouts",
-    "file": "1sCsPzor4r.png",
-    "url": "https://cdn.jsdelivr.net/gh/jcollins5513/ai-screen-builder-assets@v4/packs/cutouts/1sCsPzor4r.png",
-    "width": 2224,
-    "height": 1664,
-    "aspectRatio": "4:3",
-    "tone": "light",
-    "transparentRatio": 0.876,
-    "alphaChannel": true,
-    "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
-  },
-  {
-    "id": "cutouts/1sR6OZ3r4r",
-    "pack": "cutouts",
-    "file": "1sR6OZ3r4r.png",
-    "url": "https://cdn.jsdelivr.net/gh/jcollins5513/ai-screen-builder-assets@v4/packs/cutouts/1sR6OZ3r4r.png",
-    "width": 4000,
-    "height": 2281,
-    "aspectRatio": "16:9",
-    "tone": "dark",
-    "transparentRatio": 0.945,
-    "alphaChannel": true,
-    "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
-  },
-  {
-    "id": "cutouts/3GFbNkNREY",
-    "pack": "cutouts",
-    "file": "3GFbNkNREY.png",
-    "url": "https://cdn.jsdelivr.net/gh/jcollins5513/ai-screen-builder-assets@v4/packs/cutouts/3GFbNkNREY.png",
-    "width": 1024,
-    "height": 1024,
-    "aspectRatio": "1:1",
-    "tone": "light",
-    "transparentRatio": 0.741,
-    "alphaChannel": true,
-    "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "full-body woman walking in long dark coat and white sneakers",
+    "subjectTags": [
+      "woman",
+      "walking",
+      "coat",
+      "sneakers",
+      "trousers",
+      "profile",
+      "bun"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/3zzw0fDREY",
@@ -205,9 +197,17 @@
     "transparentRatio": 0.752,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black cycling helmet with sport sunglasses and steel water bottle",
+    "subjectTags": [
+      "helmet",
+      "cycling",
+      "sunglasses",
+      "bottle",
+      "steel",
+      "black",
+      "gear"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/3zzwD5BREY",
@@ -221,9 +221,17 @@
     "transparentRatio": 0.907,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "dark carbon-textured quadcopter drone with white underslung pod",
+    "subjectTags": [
+      "drone",
+      "quadcopter",
+      "propellers",
+      "carbon",
+      "pod",
+      "aerial",
+      "black"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/3zzwo1eREY",
@@ -237,9 +245,17 @@
     "transparentRatio": 0.718,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "matte black electric scooter in front three-quarter view",
+    "subjectTags": [
+      "scooter",
+      "moped",
+      "electric",
+      "handlebars",
+      "seat",
+      "wheels",
+      "black"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/3zzwW5hREY",
@@ -253,9 +269,17 @@
     "transparentRatio": 0.822,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "full-body woman in blue gradient jacket and trousers standing",
+    "subjectTags": [
+      "woman",
+      "jacket",
+      "trousers",
+      "blue",
+      "gradient",
+      "standing",
+      "shoes"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/3zzwWxEREY",
@@ -269,9 +293,17 @@
     "transparentRatio": 0.791,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "full-body person in blue gradient collared jacket and trousers",
+    "subjectTags": [
+      "person",
+      "jacket",
+      "trousers",
+      "blue",
+      "gradient",
+      "collar",
+      "standing"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/4RRHNy59Aa",
@@ -285,9 +317,17 @@
     "transparentRatio": 0.716,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "walking man with backpack holding folded map, head cropped",
+    "subjectTags": [
+      "man",
+      "walking",
+      "backpack",
+      "map",
+      "jacket",
+      "boots",
+      "cropped"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/4RRsYzw9Aa",
@@ -301,9 +341,17 @@
     "transparentRatio": 0.926,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "hanging pendant lamp with dark stem and white ruffled shade",
+    "subjectTags": [
+      "lamp",
+      "pendant",
+      "shade",
+      "cord",
+      "ceiling",
+      "lighting",
+      "white"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/4RRTffX9Aa",
@@ -317,9 +365,17 @@
     "transparentRatio": 0.807,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "man in helmet and life vest paddling blue kayak",
+    "subjectTags": [
+      "kayak",
+      "paddle",
+      "man",
+      "helmet",
+      "vest",
+      "paddling",
+      "boat"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/5jjpUBfKxe",
@@ -333,9 +389,17 @@
     "transparentRatio": 0.785,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "twisted velvet ribbon with stone discs, brass sphere and petals",
+    "subjectTags": [
+      "ribbon",
+      "velvet",
+      "stones",
+      "sphere",
+      "petals",
+      "brass",
+      "arrangement"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/6AAS08tiJO",
@@ -370,9 +434,17 @@
     "transparentRatio": 0.786,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "silver fastback sedan in full side profile view",
+    "subjectTags": [
+      "sedan",
+      "car",
+      "silver",
+      "fastback",
+      "wheels",
+      "profile",
+      "vehicle"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/6AAUED6iJO",
@@ -408,9 +480,17 @@
     "transparentRatio": 0.898,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black quadcopter drone with gimbal camera and landing legs",
+    "subjectTags": [
+      "drone",
+      "quadcopter",
+      "camera",
+      "gimbal",
+      "propellers",
+      "legs",
+      "black"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/7991DnfJAL",
@@ -424,9 +504,17 @@
     "transparentRatio": 0.75,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "contemporary furniture group with bolster bench, chairs and ottoman",
+    "subjectTags": [
+      "furniture",
+      "bench",
+      "chair",
+      "ottoman",
+      "leather",
+      "boucle",
+      "table"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/7991GFAJAL",
@@ -440,9 +528,17 @@
     "transparentRatio": 0.596,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black camera with large lens and coiled leather strap",
+    "subjectTags": [
+      "camera",
+      "lens",
+      "strap",
+      "leather",
+      "black",
+      "photography",
+      "coiled"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/799CyiuJAL",
@@ -456,9 +552,17 @@
     "transparentRatio": 0.853,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "full-body person walking with daypack holding open paper map",
+    "subjectTags": [
+      "person",
+      "walking",
+      "backpack",
+      "map",
+      "jacket",
+      "boots",
+      "profile"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/799rIGBJAL",
@@ -472,9 +576,17 @@
     "transparentRatio": 0.712,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black mirrorless camera with zoom lens beside hard case",
+    "subjectTags": [
+      "camera",
+      "lens",
+      "case",
+      "dials",
+      "black",
+      "photography",
+      "equipment"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/8aa0HgoIrU",
@@ -488,9 +600,17 @@
     "transparentRatio": 0.721,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "charcoal ripstop hiking backpack with rolled cover and pouch",
+    "subjectTags": [
+      "backpack",
+      "hiking",
+      "ripstop",
+      "straps",
+      "pouch",
+      "charcoal",
+      "outdoor"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/8aa3qF4IrU",
@@ -504,9 +624,17 @@
     "transparentRatio": 0.778,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "over-ear headphones in dark navy with bronze metal accents",
+    "subjectTags": [
+      "headphones",
+      "audio",
+      "earcups",
+      "headband",
+      "bronze",
+      "navy",
+      "leather"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/8aaipNKIrU",
@@ -520,9 +648,17 @@
     "transparentRatio": 0.858,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "champagne gold sports coupe in full side profile",
+    "subjectTags": [
+      "car",
+      "coupe",
+      "sports",
+      "profile",
+      "gold",
+      "wheels",
+      "automotive"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/9ZZHPhtNYZ",
@@ -536,9 +672,17 @@
     "transparentRatio": 0.739,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "full-body person walking in long charcoal wool overcoat",
+    "subjectTags": [
+      "person",
+      "overcoat",
+      "wool",
+      "walking",
+      "trousers",
+      "sneakers",
+      "fashion"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/9ZZlesQNYZ",
@@ -552,9 +696,17 @@
     "transparentRatio": 0.73,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black box-body delivery van in side profile",
+    "subjectTags": [
+      "van",
+      "truck",
+      "delivery",
+      "cargo",
+      "black",
+      "profile",
+      "wheels"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/9ZZlIkoNYZ",
@@ -568,9 +720,17 @@
     "transparentRatio": 0.73,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "square-faced smartwatch with woven grey fabric loop band",
+    "subjectTags": [
+      "smartwatch",
+      "watch",
+      "wearable",
+      "band",
+      "fabric",
+      "screen",
+      "steel"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/9ZZltRxNYZ",
@@ -584,9 +744,17 @@
     "transparentRatio": 0.662,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "rounded cream delivery robot on four wheels with dark dome",
+    "subjectTags": [
+      "robot",
+      "wheels",
+      "dome",
+      "delivery",
+      "cream",
+      "sensors",
+      "autonomous"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/aFFegINfSh",
@@ -600,9 +768,17 @@
     "transparentRatio": 0.586,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black mirrorless camera body with prime lens attached",
+    "subjectTags": [
+      "camera",
+      "lens",
+      "mirrorless",
+      "dials",
+      "grip",
+      "black",
+      "photography"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/aFFex1BfSh",
@@ -616,9 +792,17 @@
     "transparentRatio": 0.712,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "dark smartphone tilted with magnetic puck accessory attached",
+    "subjectTags": [
+      "smartphone",
+      "phone",
+      "magnetic",
+      "accessory",
+      "screen",
+      "chrome",
+      "mount"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/aFFeyAQfSh",
@@ -632,9 +816,17 @@
     "transparentRatio": 0.59,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "cylindrical mesh-fabric smart speaker on brushed metal base",
+    "subjectTags": [
+      "speaker",
+      "audio",
+      "mesh",
+      "fabric",
+      "cylinder",
+      "metal",
+      "tabletop"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/aFFsXXwfSh",
@@ -648,25 +840,17 @@
     "transparentRatio": 0.856,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
-  },
-  {
-    "id": "cutouts/BmxNSynoQR",
-    "pack": "cutouts",
-    "file": "BmxNSynoQR.png",
-    "url": "https://cdn.jsdelivr.net/gh/jcollins5513/ai-screen-builder-assets@v4/packs/cutouts/BmxNSynoQR.png",
-    "width": 1024,
-    "height": 1024,
-    "aspectRatio": "1:1",
-    "tone": "dark",
-    "transparentRatio": 0.857,
-    "alphaChannel": true,
-    "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "full-body man in teal jacket and orange life vest holding paddle",
+    "subjectTags": [
+      "man",
+      "paddle",
+      "lifevest",
+      "jacket",
+      "boots",
+      "standing",
+      "outdoor"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/bxxh4I85Y2",
@@ -680,9 +864,17 @@
     "transparentRatio": 0.517,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "three black camera lenses arranged in sculptural leaning group",
+    "subjectTags": [
+      "lenses",
+      "camera",
+      "optics",
+      "glass",
+      "black",
+      "barrel",
+      "group"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/bxxh9Ug5Y2",
@@ -696,9 +888,17 @@
     "transparentRatio": 0.924,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black quadcopter drone with ducted rotors and long spray booms",
+    "subjectTags": [
+      "drone",
+      "quadcopter",
+      "rotors",
+      "booms",
+      "black",
+      "payload",
+      "aerial"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/bxxvYGO5Y2",
@@ -712,9 +912,17 @@
     "transparentRatio": 0.631,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "caged-rotor camera drone beside open and closed hard cases",
+    "subjectTags": [
+      "drone",
+      "camera",
+      "gimbal",
+      "case",
+      "rotors",
+      "cage",
+      "equipment"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/cppiE9J0eP",
@@ -728,9 +936,17 @@
     "transparentRatio": 0.71,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "dark electric scooter in three-quarter front view",
+    "subjectTags": [
+      "scooter",
+      "moped",
+      "electric",
+      "wheels",
+      "handlebars",
+      "seat",
+      "dark"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/cppiu8p0eP",
@@ -789,9 +1005,17 @@
     "transparentRatio": 0.726,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "champagne silver fastback sedan in full side profile",
+    "subjectTags": [
+      "car",
+      "sedan",
+      "fastback",
+      "profile",
+      "silver",
+      "wheels",
+      "automotive"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/dttnQcaXSL",
@@ -805,9 +1029,17 @@
     "transparentRatio": 0.918,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "dark carbon quadcopter drone hovering with landing skids",
+    "subjectTags": [
+      "drone",
+      "quadcopter",
+      "propellers",
+      "carbon",
+      "skids",
+      "hovering",
+      "aerial"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/eII4BrNdqL",
@@ -821,9 +1053,17 @@
     "transparentRatio": 0.69,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "frosted amber cosmetic jar with carved onyx stone lid",
+    "subjectTags": [
+      "jar",
+      "cosmetic",
+      "frosted",
+      "glass",
+      "stone",
+      "onyx",
+      "amber"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/eIIzjVedqL",
@@ -837,9 +1077,17 @@
     "transparentRatio": 0.483,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "pair of angular black bookshelf speakers with perforated grilles",
+    "subjectTags": [
+      "speakers",
+      "audio",
+      "grille",
+      "pair",
+      "black",
+      "chrome",
+      "bookshelf"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/fHHdPWOCDY",
@@ -853,9 +1101,17 @@
     "transparentRatio": 0.621,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "tall dome-topped mesh speaker on brushed metal base",
+    "subjectTags": [
+      "speaker",
+      "audio",
+      "mesh",
+      "dome",
+      "cylinder",
+      "metal",
+      "tabletop"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/fHHX3T7CDY",
@@ -869,9 +1125,17 @@
     "transparentRatio": 0.72,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "glossy black modular device with two discs and knurled dial",
+    "subjectTags": [
+      "device",
+      "discs",
+      "dial",
+      "knurled",
+      "black",
+      "modular",
+      "glossy"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/gOObiOmSXO",
@@ -885,9 +1149,17 @@
     "transparentRatio": 0.795,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "frosted glass serum bottle jar and chrome applicator balanced together",
+    "subjectTags": [
+      "bottle",
+      "jar",
+      "serum",
+      "frosted",
+      "glass",
+      "chrome",
+      "applicator"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/gOObN0sSXO",
@@ -901,9 +1173,17 @@
     "transparentRatio": 0.763,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "matte black cycling helmet with sport sunglasses and bottle",
+    "subjectTags": [
+      "helmet",
+      "cycling",
+      "sunglasses",
+      "bottle",
+      "sport",
+      "black",
+      "gear"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/gOObNiFSXO",
@@ -917,9 +1197,17 @@
     "transparentRatio": 0.753,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "brown and white dog sitting beside ceramic bowl and rope",
+    "subjectTags": [
+      "dog",
+      "sitting",
+      "bowl",
+      "rope",
+      "toy",
+      "pet",
+      "ceramic"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/gOObnu4SXO",
@@ -978,9 +1266,17 @@
     "transparentRatio": 0.623,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "iridescent translucent sphere with swirling pastel rainbow marbling",
+    "subjectTags": [
+      "sphere",
+      "iridescent",
+      "translucent",
+      "pastel",
+      "swirl",
+      "bubble",
+      "abstract"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/hEDExiFvqL",
@@ -994,41 +1290,17 @@
     "transparentRatio": 0.547,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
-  },
-  {
-    "id": "cutouts/iA85aoT3uK",
-    "pack": "cutouts",
-    "file": "iA85aoT3uK.png",
-    "url": "https://cdn.jsdelivr.net/gh/jcollins5513/ai-screen-builder-assets@v4/packs/cutouts/iA85aoT3uK.png",
-    "width": 1024,
-    "height": 1024,
-    "aspectRatio": "1:1",
-    "tone": "dark",
-    "transparentRatio": 0.857,
-    "alphaChannel": true,
-    "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
-  },
-  {
-    "id": "cutouts/iAod50H3uK",
-    "pack": "cutouts",
-    "file": "iAod50H3uK.png",
-    "url": "https://cdn.jsdelivr.net/gh/jcollins5513/ai-screen-builder-assets@v4/packs/cutouts/iAod50H3uK.png",
-    "width": 2048,
-    "height": 1168,
-    "aspectRatio": "16:9",
-    "tone": "dark",
-    "transparentRatio": 0.944,
-    "alphaChannel": true,
-    "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "desaturated american flag hanging from an angled pole",
+    "subjectTags": [
+      "flag",
+      "stars",
+      "stripes",
+      "pole",
+      "fabric",
+      "monochrome",
+      "hanging"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/iGGUtAf3uK",
@@ -1042,9 +1314,17 @@
     "transparentRatio": 0.803,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "full-body woman in navy work uniform holding a tablet",
+    "subjectTags": [
+      "woman",
+      "uniform",
+      "navy",
+      "tablet",
+      "standing",
+      "worker",
+      "fullbody"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/JNNrzu6Oq4",
@@ -1058,9 +1338,17 @@
     "transparentRatio": 0.607,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "champagne colored concept sedan in clean side profile",
+    "subjectTags": [
+      "car",
+      "sedan",
+      "profile",
+      "champagne",
+      "coupe",
+      "wheels",
+      "vehicle"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/jUUFDdHLD0",
@@ -1074,9 +1362,17 @@
     "transparentRatio": 0.673,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black vr headset visor with two handheld controllers",
+    "subjectTags": [
+      "headset",
+      "visor",
+      "controllers",
+      "black",
+      "wearable",
+      "electronics",
+      "handheld"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/jUUFDtQLD0",
@@ -1090,9 +1386,17 @@
     "transparentRatio": 0.753,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "brushed metal canister with two black domed spheres",
+    "subjectTags": [
+      "canister",
+      "metal",
+      "sphere",
+      "dome",
+      "lid",
+      "glossy",
+      "containers"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/jUUQyM7LD0",
@@ -1106,9 +1410,17 @@
     "transparentRatio": 0.691,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "cream boucle lounge chair on curved wooden legs",
+    "subjectTags": [
+      "chair",
+      "boucle",
+      "upholstered",
+      "wood",
+      "legs",
+      "furniture",
+      "cream"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/kssdOic16B",
@@ -1122,9 +1434,17 @@
     "transparentRatio": 0.742,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "navy over-ear headphones with leather cushions and metal hinges",
+    "subjectTags": [
+      "headphones",
+      "navy",
+      "leather",
+      "cushions",
+      "hinges",
+      "audio",
+      "wireless"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/kssfiwN16B",
@@ -1138,25 +1458,17 @@
     "transparentRatio": 0.916,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
-  },
-  {
-    "id": "cutouts/kssfJjG16B",
-    "pack": "cutouts",
-    "file": "kssfJjG16B.png",
-    "url": "https://cdn.jsdelivr.net/gh/jcollins5513/ai-screen-builder-assets@v4/packs/cutouts/kssfJjG16B.png",
-    "width": 896,
-    "height": 1152,
-    "aspectRatio": "3:4",
-    "tone": "light",
-    "transparentRatio": 0.583,
-    "alphaChannel": true,
-    "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "silver quadcopter drone carrying a boxy cargo package",
+    "subjectTags": [
+      "drone",
+      "quadcopter",
+      "propellers",
+      "package",
+      "cargo",
+      "silver",
+      "delivery"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/kssfZbS16B",
@@ -1170,9 +1482,17 @@
     "transparentRatio": 0.435,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "three dark handheld devices with blank screens, one rugged",
+    "subjectTags": [
+      "devices",
+      "handheld",
+      "screens",
+      "rugged",
+      "case",
+      "black",
+      "electronics"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/lJJqTQagv9",
@@ -1186,25 +1506,17 @@
     "transparentRatio": 0.802,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
-  },
-  {
-    "id": "cutouts/lUEYkWfgv9",
-    "pack": "cutouts",
-    "file": "lUEYkWfgv9.png",
-    "url": "https://cdn.jsdelivr.net/gh/jcollins5513/ai-screen-builder-assets@v4/packs/cutouts/lUEYkWfgv9.png",
-    "width": 2000,
-    "height": 1333,
-    "aspectRatio": "2000:1333",
-    "tone": "light",
-    "transparentRatio": 0.683,
-    "alphaChannel": true,
-    "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "silver and black video projector with small remote",
+    "subjectTags": [
+      "projector",
+      "lens",
+      "remote",
+      "silver",
+      "black",
+      "vents",
+      "electronics"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/LwwFAzCswO",
@@ -1218,9 +1530,17 @@
     "transparentRatio": 0.769,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black adventure touring motorcycle with side panniers and windscreen",
+    "subjectTags": [
+      "motorcycle",
+      "touring",
+      "panniers",
+      "windscreen",
+      "black",
+      "wheels",
+      "vehicle"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/LwwHp8HswO",
@@ -1234,9 +1554,17 @@
     "transparentRatio": 0.641,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black vr headset with two gamepad-style handheld controllers",
+    "subjectTags": [
+      "headset",
+      "visor",
+      "controllers",
+      "gamepad",
+      "black",
+      "strap",
+      "electronics"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/LwwRqe5swO",
@@ -1250,9 +1578,17 @@
     "transparentRatio": 0.822,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "full-body man in rain jacket and life vest holding paddle",
+    "subjectTags": [
+      "man",
+      "paddle",
+      "vest",
+      "jacket",
+      "kayaking",
+      "standing",
+      "fullbody"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/LwwRqIjswO",
@@ -1266,9 +1602,17 @@
     "transparentRatio": 0.793,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "white sport coupe in side profile with bronze wheels",
+    "subjectTags": [
+      "car",
+      "coupe",
+      "profile",
+      "white",
+      "bronze",
+      "wheels",
+      "vehicle"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/MBB2vH6DCm",
@@ -1305,9 +1649,17 @@
     "transparentRatio": 0.748,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "folding tablet in fabric folio case with white stylus",
+    "subjectTags": [
+      "tablet",
+      "folio",
+      "case",
+      "fabric",
+      "stylus",
+      "screen",
+      "device"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/MBBAl5jDCm",
@@ -1321,9 +1673,17 @@
     "transparentRatio": 0.71,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black underwater vehicle with dome camera, lights and tether",
+    "subjectTags": [
+      "submersible",
+      "camera",
+      "dome",
+      "lights",
+      "thrusters",
+      "tether",
+      "underwater"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/mEEMFdihJQ",
@@ -1337,9 +1697,17 @@
     "transparentRatio": 0.807,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "plated quenelles on shredded greens in shallow ceramic bowl",
+    "subjectTags": [
+      "plate",
+      "bowl",
+      "quenelle",
+      "greens",
+      "peas",
+      "cuisine",
+      "garnish"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/mEEMlfNhJQ",
@@ -1353,9 +1721,17 @@
     "transparentRatio": 0.729,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "silver semi truck with plain box trailer, angled view",
+    "subjectTags": [
+      "truck",
+      "semi",
+      "trailer",
+      "freight",
+      "cargo",
+      "silver",
+      "wheels"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/mEEMsJ8hJQ",
@@ -1369,9 +1745,17 @@
     "transparentRatio": 0.691,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "dark red glowing concept sportbike in side profile",
+    "subjectTags": [
+      "motorcycle",
+      "sportbike",
+      "red",
+      "glowing",
+      "concept",
+      "wheels",
+      "profile"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/mEEMSXlhJQ",
@@ -1385,9 +1769,17 @@
     "transparentRatio": 0.651,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "stacked notebook, pencils, fountain pen, ruler and binder clips",
+    "subjectTags": [
+      "notebook",
+      "pencils",
+      "pen",
+      "ruler",
+      "clips",
+      "stationery",
+      "paper"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/N22g8Ag6D9",
@@ -1401,9 +1793,17 @@
     "transparentRatio": 0.597,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "open lined notebook with fountain pen, pencils and metal ruler",
+    "subjectTags": [
+      "notebook",
+      "pen",
+      "pencils",
+      "ruler",
+      "clips",
+      "stationery",
+      "pages"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/N22gXeZ6D9",
@@ -1461,9 +1861,17 @@
     "transparentRatio": 0.911,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "hanging pendant lamp with rounded opal glass shade",
+    "subjectTags": [
+      "pendant",
+      "lamp",
+      "lighting",
+      "glass",
+      "shade",
+      "cord",
+      "ceiling"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/ovvcFKz829",
@@ -1477,9 +1885,17 @@
     "transparentRatio": 0.72,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "chilled glass carafe, tumbler and curled citrus peel",
+    "subjectTags": [
+      "carafe",
+      "glass",
+      "tumbler",
+      "citrus",
+      "peel",
+      "beverage",
+      "condensation"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/ovvcsk4829",
@@ -1493,9 +1909,17 @@
     "transparentRatio": 0.839,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black handheld gaming console with flip screen and corded handset",
+    "subjectTags": [
+      "handheld",
+      "console",
+      "screen",
+      "buttons",
+      "cable",
+      "handset",
+      "black"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/ovvcu1c829",
@@ -1509,9 +1933,17 @@
     "transparentRatio": 0.638,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "full-body seated brown dog beside ceramic bowl and rope",
+    "subjectTags": [
+      "dog",
+      "sitting",
+      "bowl",
+      "rope",
+      "pet",
+      "ceramic",
+      "brown"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/ovvcxCU829",
@@ -1525,9 +1957,17 @@
     "transparentRatio": 0.554,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "grey box-body delivery van in flat side profile",
+    "subjectTags": [
+      "van",
+      "delivery",
+      "box",
+      "truck",
+      "grey",
+      "wheels",
+      "profile"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/P33L2H242C",
@@ -1541,9 +1981,17 @@
     "transparentRatio": 0.762,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "plated white fish with radish, mushrooms and greens",
+    "subjectTags": [
+      "plate",
+      "fish",
+      "radish",
+      "mushroom",
+      "greens",
+      "cuisine",
+      "plating"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/P33L8NY42C",
@@ -1557,9 +2005,17 @@
     "transparentRatio": 0.547,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "rounded cream and black robotic wheeled vehicle with camera dome",
+    "subjectTags": [
+      "robot",
+      "vehicle",
+      "wheels",
+      "dome",
+      "camera",
+      "glossy",
+      "futuristic"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/P33LW1242C",
@@ -1573,9 +2029,17 @@
     "transparentRatio": 0.653,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "champagne silver aerodynamic sedan in flat side profile",
+    "subjectTags": [
+      "car",
+      "sedan",
+      "silver",
+      "wheels",
+      "profile",
+      "automotive",
+      "sleek"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/p88GqpUehw",
@@ -1611,9 +2075,17 @@
     "transparentRatio": 0.779,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "white clamshell handheld device with probe wand and coiled cable",
+    "subjectTags": [
+      "device",
+      "handheld",
+      "screen",
+      "probe",
+      "cable",
+      "white",
+      "portable"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/rggEn1nxtc",
@@ -1627,9 +2099,17 @@
     "transparentRatio": 0.713,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black widescreen monitor on round pedestal stand",
+    "subjectTags": [
+      "monitor",
+      "screen",
+      "display",
+      "stand",
+      "pedestal",
+      "black",
+      "desktop"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/rggER6uxtc",
@@ -1643,9 +2123,17 @@
     "transparentRatio": 0.696,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "glossy deep red sport motorcycle in side profile",
+    "subjectTags": [
+      "motorcycle",
+      "sportbike",
+      "red",
+      "glossy",
+      "fairing",
+      "wheels",
+      "profile"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/rggERQGxtc",
@@ -1659,9 +2147,17 @@
     "transparentRatio": 0.696,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "metallic blue sports coupe in front three-quarter view",
+    "subjectTags": [
+      "car",
+      "coupe",
+      "blue",
+      "sports",
+      "wheels",
+      "headlights",
+      "automotive"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/rggEy9dxtc",
@@ -1698,25 +2194,17 @@
     "transparentRatio": 0.818,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
-  },
-  {
-    "id": "cutouts/rlRYSS9xtc",
-    "pack": "cutouts",
-    "file": "rlRYSS9xtc.png",
-    "url": "https://cdn.jsdelivr.net/gh/jcollins5513/ai-screen-builder-assets@v4/packs/cutouts/rlRYSS9xtc.png",
-    "width": 1376,
-    "height": 768,
-    "aspectRatio": "16:9",
-    "tone": "light",
-    "transparentRatio": 0.944,
-    "alphaChannel": true,
-    "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "metal underwater submersible with thrusters, dome window and tether",
+    "subjectTags": [
+      "submersible",
+      "thrusters",
+      "tether",
+      "dome",
+      "metal",
+      "underwater",
+      "robotic"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/s77HAHAl8e",
@@ -1730,9 +2218,17 @@
     "transparentRatio": 0.845,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black action camera with hard case and mounting brackets",
+    "subjectTags": [
+      "camera",
+      "action",
+      "lens",
+      "case",
+      "mount",
+      "bracket",
+      "black"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/s77HG7Pl8e",
@@ -1746,9 +2242,17 @@
     "transparentRatio": 0.846,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "grey fixed-wing unmanned aircraft with skid landing gear",
+    "subjectTags": [
+      "drone",
+      "aircraft",
+      "wings",
+      "skids",
+      "fuselage",
+      "lens",
+      "uav"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/s77HGeol8e",
@@ -1762,9 +2266,17 @@
     "transparentRatio": 0.804,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "bare-metal tank cafe racer motorcycle in side profile",
+    "subjectTags": [
+      "motorcycle",
+      "tank",
+      "engine",
+      "spoked",
+      "seat",
+      "vintage",
+      "chrome"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/s77HiT8l8e",
@@ -1778,9 +2290,17 @@
     "transparentRatio": 0.768,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "dark tablet tilted in air with matching stylus",
+    "subjectTags": [
+      "tablet",
+      "stylus",
+      "screen",
+      "device",
+      "angled",
+      "touchscreen",
+      "dark"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/s77HiXfl8e",
@@ -1794,9 +2314,17 @@
     "transparentRatio": 0.793,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "boxy tan off-road concept suv on oversized knobby tires",
+    "subjectTags": [
+      "suv",
+      "offroad",
+      "concept",
+      "tan",
+      "knobby",
+      "tires",
+      "vehicle"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/s77t9oSl8e",
@@ -1810,9 +2338,17 @@
     "transparentRatio": 0.668,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "folded dark teal fabric with cream petals, stones and metal sphere",
+    "subjectTags": [
+      "fabric",
+      "teal",
+      "petals",
+      "stones",
+      "sphere",
+      "arrangement",
+      "still-life"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/S7FJdHwUb8",
@@ -1826,9 +2362,17 @@
     "transparentRatio": 0.717,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "flat icon of three stylized figures in blue shirts",
+    "subjectTags": [
+      "icon",
+      "figures",
+      "group",
+      "blue",
+      "flat",
+      "illustration",
+      "people"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/Syy5nskUb8",
@@ -1842,9 +2386,17 @@
     "transparentRatio": 0.733,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black cinema camera with matte box and top handle",
+    "subjectTags": [
+      "camera",
+      "cinema",
+      "lens",
+      "mattebox",
+      "handle",
+      "black",
+      "cables"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/Syy5TN7Ub8",
@@ -1858,9 +2410,17 @@
     "transparentRatio": 0.583,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "three dark smartphones including one in rugged protective case",
+    "subjectTags": [
+      "smartphones",
+      "rugged",
+      "case",
+      "screens",
+      "devices",
+      "black",
+      "trio"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/Syy5TYNUb8",
@@ -1874,9 +2434,17 @@
     "transparentRatio": 0.842,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "full-body woman in navy work shirt holding a phone",
+    "subjectTags": [
+      "woman",
+      "navy",
+      "shirt",
+      "trousers",
+      "phone",
+      "standing",
+      "loafers"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/Syy5Y29Ub8",
@@ -1890,9 +2458,17 @@
     "transparentRatio": 0.868,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "sleek fixed-wing drone aircraft with camera turret and skids",
+    "subjectTags": [
+      "drone",
+      "aircraft",
+      "camera",
+      "turret",
+      "skids",
+      "wing",
+      "grey"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/Syy5YYRUb8",
@@ -1906,9 +2482,17 @@
     "transparentRatio": 0.893,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black six-rotor hexacopter drone with glossy dome body",
+    "subjectTags": [
+      "drone",
+      "hexacopter",
+      "rotors",
+      "propellers",
+      "dome",
+      "black",
+      "aerial"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/Syy5ZqKUb8",
@@ -1922,9 +2506,17 @@
     "transparentRatio": 0.777,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "sculpted dark grey concept motorcycle in side profile",
+    "subjectTags": [
+      "motorcycle",
+      "concept",
+      "grey",
+      "sculpted",
+      "wheels",
+      "profile",
+      "bike"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/SyyhlYpUb8",
@@ -1938,9 +2530,17 @@
     "transparentRatio": 0.744,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "full-body model walking in long charcoal wool overcoat",
+    "subjectTags": [
+      "model",
+      "overcoat",
+      "charcoal",
+      "walking",
+      "trousers",
+      "sneakers",
+      "fashion"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/SyyKBM3Ub8",
@@ -1954,9 +2554,17 @@
     "transparentRatio": 0.8,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black camera drone with rotor guards beside open hard case",
+    "subjectTags": [
+      "drone",
+      "rotors",
+      "guards",
+      "camera",
+      "case",
+      "black",
+      "equipment"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/Syyvi1qUb8",
@@ -1970,9 +2578,17 @@
     "transparentRatio": 0.715,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "twisted dark blue paper strip with petals, stones and sphere",
+    "subjectTags": [
+      "paper",
+      "strip",
+      "petals",
+      "stones",
+      "sphere",
+      "blue",
+      "arrangement"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/TddRbDvVNR",
@@ -1986,9 +2602,17 @@
     "transparentRatio": 0.626,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "cream pump bottle with toothbrush, razor, comb, jar and towel",
+    "subjectTags": [
+      "bottle",
+      "toothbrush",
+      "razor",
+      "comb",
+      "towel",
+      "jar",
+      "toiletries"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/TddRvH4VNR",
@@ -2002,9 +2626,17 @@
     "transparentRatio": 0.742,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "angular tan off-road concept vehicle on large knobby tires",
+    "subjectTags": [
+      "vehicle",
+      "suv",
+      "offroad",
+      "tan",
+      "angular",
+      "tires",
+      "concept"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/TddZLQ5VNR",
@@ -2018,9 +2650,17 @@
     "transparentRatio": 0.544,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "camera with long lens and ring light on slider rail",
+    "subjectTags": [
+      "camera",
+      "lens",
+      "ringlight",
+      "slider",
+      "rail",
+      "black",
+      "rig"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/u55olRnQLD",
@@ -2034,9 +2674,17 @@
     "transparentRatio": 0.742,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "smooth silver concept motorcycle in side profile",
+    "subjectTags": [
+      "motorcycle",
+      "silver",
+      "concept",
+      "sculpted",
+      "wheels",
+      "profile",
+      "bike"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/u55oNIeQLD",
@@ -2071,9 +2719,17 @@
     "transparentRatio": 0.687,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "silver utility truck with crane, storage boxes and traffic cones",
+    "subjectTags": [
+      "truck",
+      "utility",
+      "crane",
+      "cones",
+      "boxes",
+      "silver",
+      "service"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/UP4Y1Nqwny",
@@ -2108,9 +2764,17 @@
     "transparentRatio": 0.874,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "dark tablet tilted in air with stylus pen above",
+    "subjectTags": [
+      "tablet",
+      "stylus",
+      "pen",
+      "screen",
+      "device",
+      "tilted",
+      "gradient"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/UPPKi03wny",
@@ -2124,9 +2788,17 @@
     "transparentRatio": 0.669,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "curved oak lounge chair with cream boucle upholstery",
+    "subjectTags": [
+      "chair",
+      "lounge",
+      "oak",
+      "wood",
+      "boucle",
+      "upholstery",
+      "furniture"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/UPPKiz4wny",
@@ -2140,9 +2812,17 @@
     "transparentRatio": 0.784,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "full-body woman in black activewear carrying a kettlebell",
+    "subjectTags": [
+      "woman",
+      "activewear",
+      "kettlebell",
+      "walking",
+      "black",
+      "sneakers",
+      "fitness"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/UPPko3Cwny",
@@ -2156,9 +2836,17 @@
     "transparentRatio": 0.588,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black mirrorless camera with wide lens beside hard case",
+    "subjectTags": [
+      "camera",
+      "lens",
+      "mirrorless",
+      "case",
+      "black",
+      "photography",
+      "gear"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/UPPvjYZwny",
@@ -2172,25 +2860,17 @@
     "transparentRatio": 0.828,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
-  },
-  {
-    "id": "cutouts/UycnP6Gwny",
-    "pack": "cutouts",
-    "file": "UycnP6Gwny.png",
-    "url": "https://cdn.jsdelivr.net/gh/jcollins5513/ai-screen-builder-assets@v4/packs/cutouts/UycnP6Gwny.png",
-    "width": 1024,
-    "height": 1024,
-    "aspectRatio": "1:1",
-    "tone": "dark",
-    "transparentRatio": 0.856,
-    "alphaChannel": true,
-    "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "cream grand touring coupe in side profile with bronze wheels",
+    "subjectTags": [
+      "coupe",
+      "car",
+      "cream",
+      "bronze",
+      "wheels",
+      "profile",
+      "vehicle"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/vQQLdT1a47",
@@ -2204,9 +2884,17 @@
     "transparentRatio": 0.797,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "cream sports coupe in side profile with bronze wire wheels",
+    "subjectTags": [
+      "coupe",
+      "car",
+      "cream",
+      "profile",
+      "wheels",
+      "bronze",
+      "sports"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/vQQpgAqa47",
@@ -2220,9 +2908,17 @@
     "transparentRatio": 0.651,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "dark green metallic estate wagon in full side profile",
+    "subjectTags": [
+      "wagon",
+      "car",
+      "green",
+      "metallic",
+      "profile",
+      "wheels",
+      "estate"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/vQQpOola47",
@@ -2236,9 +2932,16 @@
     "transparentRatio": 0.827,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black flat-panel monitor angled on curved cantilever stand",
+    "subjectTags": [
+      "monitor",
+      "display",
+      "screen",
+      "stand",
+      "black",
+      "desktop"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/VXXJveGMMU",
@@ -2252,9 +2955,16 @@
     "transparentRatio": 0.636,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "dark slate over-ear headphones with plush pads and metal arms",
+    "subjectTags": [
+      "headphones",
+      "overear",
+      "slate",
+      "metal",
+      "earpads",
+      "audio"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/VXXZbTRMMU",
@@ -2268,9 +2978,17 @@
     "transparentRatio": 0.614,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "beige chenille sofa set with speckled stone coffee table",
+    "subjectTags": [
+      "sofa",
+      "armchair",
+      "chenille",
+      "table",
+      "stone",
+      "cushion",
+      "furniture"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/VXXZFS1MMU",
@@ -2284,9 +3002,17 @@
     "transparentRatio": 0.792,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "cafe racer motorcycle in side profile with bare metal tank",
+    "subjectTags": [
+      "motorcycle",
+      "cafe",
+      "racer",
+      "tank",
+      "headlight",
+      "profile",
+      "metal"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/VXXZtfEMMU",
@@ -2323,9 +3049,16 @@
     "transparentRatio": 0.723,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "smartwatch with blank screen and gray woven loop band",
+    "subjectTags": [
+      "smartwatch",
+      "watch",
+      "screen",
+      "band",
+      "woven",
+      "wearable"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/WDD6EDicXe",
@@ -2339,9 +3072,16 @@
     "transparentRatio": 0.667,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black crew-cab electric pickup truck in front three-quarter view",
+    "subjectTags": [
+      "pickup",
+      "truck",
+      "black",
+      "electric",
+      "crewcab",
+      "vehicle"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/wPkyVLC7EI",
@@ -2355,9 +3095,17 @@
     "transparentRatio": 0.672,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "waving american flag in desaturated grayscale fabric",
+    "subjectTags": [
+      "flag",
+      "american",
+      "stars",
+      "stripes",
+      "grayscale",
+      "fabric",
+      "waving"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/XmhKFYwBfo",
@@ -2393,9 +3141,17 @@
     "transparentRatio": 0.724,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "full-body hiker walking in olive jacket holding open paper map",
+    "subjectTags": [
+      "hiker",
+      "backpack",
+      "map",
+      "walking",
+      "jacket",
+      "boots",
+      "fullbody"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/XmmYs2ABfo",
@@ -2409,9 +3165,16 @@
     "transparentRatio": 0.683,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "glossy black over-ear headphones angled with thick foam earpads",
+    "subjectTags": [
+      "headphones",
+      "black",
+      "glossy",
+      "earpads",
+      "audio",
+      "overear"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/XmmYuaxBfo",
@@ -2425,9 +3188,17 @@
     "transparentRatio": 0.811,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "leafy branch with dark green leaves and small white blossoms",
+    "subjectTags": [
+      "branch",
+      "leaves",
+      "blossoms",
+      "plant",
+      "green",
+      "botanical",
+      "stem"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/xSSos60jfW",
@@ -2441,9 +3212,17 @@
     "transparentRatio": 0.785,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "frosted glass fragrance bottle with sculpted peach stone cap",
+    "subjectTags": [
+      "bottle",
+      "frosted",
+      "glass",
+      "cap",
+      "stone",
+      "amber",
+      "fragrance"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/xSSosdEjfW",
@@ -2457,9 +3236,17 @@
     "transparentRatio": 0.764,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "wide frosted bottle with elongated sculpted alabaster stone cap",
+    "subjectTags": [
+      "bottle",
+      "frosted",
+      "glass",
+      "cap",
+      "alabaster",
+      "amber",
+      "fragrance"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/xSSuRICjfW",
@@ -2473,9 +3260,17 @@
     "transparentRatio": 0.693,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "professional cinema camera with matte box and flip-out monitor",
+    "subjectTags": [
+      "camera",
+      "cinema",
+      "lens",
+      "mattebox",
+      "monitor",
+      "handle",
+      "video"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/xSSuYEEjfW",
@@ -2489,9 +3284,16 @@
     "transparentRatio": 0.708,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "compact black projector beside slim black remote control",
+    "subjectTags": [
+      "projector",
+      "remote",
+      "lens",
+      "black",
+      "compact",
+      "control"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/xSSuz4QjfW",
@@ -2505,9 +3307,17 @@
     "transparentRatio": 0.684,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "grooming set with pump bottle cream jar razor comb towel",
+    "subjectTags": [
+      "grooming",
+      "bottle",
+      "jar",
+      "razor",
+      "comb",
+      "toothbrush",
+      "towel"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/yiijMtZPW9",
@@ -2521,9 +3331,17 @@
     "transparentRatio": 0.902,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "black quadcopter drone carrying a cardboard delivery box",
+    "subjectTags": [
+      "drone",
+      "quadcopter",
+      "propellers",
+      "box",
+      "delivery",
+      "cardboard",
+      "black"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/YMMlZqlWeC",
@@ -2537,9 +3355,17 @@
     "transparentRatio": 0.78,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "champagne sports coupe in side profile with bronze alloy wheels",
+    "subjectTags": [
+      "coupe",
+      "car",
+      "champagne",
+      "profile",
+      "wheels",
+      "bronze",
+      "sports"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/YMMmrUiWeC",
@@ -2553,9 +3379,17 @@
     "transparentRatio": 0.801,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "full-body model walking in black wool cape coat and boots",
+    "subjectTags": [
+      "model",
+      "coat",
+      "cape",
+      "walking",
+      "black",
+      "boots",
+      "fullbody"
+    ],
+    "needsSubjectReview": false
   },
   {
     "id": "cutouts/YMMNIhaWeC",
@@ -2569,8 +3403,16 @@
     "transparentRatio": 0.844,
     "alphaChannel": true,
     "cutoutCapable": true,
-    "subjectDescription": null,
-    "subjectTags": [],
-    "needsSubjectReview": true
+    "subjectDescription": "smartphone with blank screen upright on round metal stand",
+    "subjectTags": [
+      "smartphone",
+      "phone",
+      "screen",
+      "stand",
+      "metal",
+      "blank",
+      "upright"
+    ],
+    "needsSubjectReview": false
   }
 ]
